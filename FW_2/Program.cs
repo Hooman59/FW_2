@@ -10,6 +10,7 @@ namespace FW_2
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("second app");
         }
     }
 }
